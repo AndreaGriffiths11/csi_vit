@@ -1,0 +1,4 @@
+- name: Twitter List Sync
+  # You may pin to the exact commit or the version.
+  # uses: AnandChowdhary/twitter-list-sync@6ca0a25d1b860e2f036655bc3f37e41ebcfad5d3
+  uses: AnandChowdhary/twitter-list-sync@v1.1.0
